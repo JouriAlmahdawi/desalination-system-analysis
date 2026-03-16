@@ -1,24 +1,28 @@
 # Sea Water Project 🌊
 
-### What is this?
-I use Python to study how we make sea water clean.
+### Project Description
+This project studies how sea water desalination works using Python.  
+The analysis shows how different variables affect water production.
 
-### Important Things:
-* Salt: The salt in the water.
-* Pressure: The power to clean the water.
-* Energy: The electricity we use.
-* Production: How much clean water we get.
+### Variables
+* Salinity: Salt in the water.
+* Osmotic pressure: The natural pressure of salt water.
+* Operating pressure: The power we use to clean water.
+* Energy consumption: The electricity we use.
+* Water production: How much clean water we get.
 
-### My Goals:
-1. Study salt and pressure.
-2. Get more water production.
-3. Use less energy (save energy).
-4. Show pictures (charts) of the data.
+[attachment_0](attachment)
 
-### Tools:
+### Goals
+1. Study the relationship between salinity and pressure.
+2. Understand how pressure affects water production.
+3. Analyze energy use.
+4. Show data with charts.
+
+### Tools
 * Python
 * Pandas
 * Matplotlib
 
-### Author:
-Physics Student
+### Author
+Physics Student 🎓
